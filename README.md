@@ -1,5 +1,4 @@
 
-![headerreadme](https://user-images.githubusercontent.com/96269610/208267716-57725c84-d1c7-4ac3-bdd7-30cf41da0469.png)
 ## Hi there, I'm Marie 👋
 
 <!--
