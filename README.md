@@ -1,4 +1,5 @@
-### Hi there 👋
+
+## Hi there, I'm Marie 👋
 
 <!--
 **mariesaeter/mariesaeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a biology enthusiast that has ended up in front-end developement with an eagerness to learn :seedling:
+
+- :smile: I go by she / her
+- :mailbox: Contact me [ here](https://www.linkedin.com/in/marie-sæter-954821207/)
+
+![headerreadme](https://user-images.githubusercontent.com/96269610/208267716-57725c84-d1c7-4ac3-bdd7-30cf41da0469.png)
