@@ -14,7 +14,7 @@ I'm currently working on improving my HTML, CSS, and JavaScript with focus on us
 
 ### Find me elsewhere 🌍
 [![linkedIn page](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marie-sæter-954821207/ "Redirect to LinkedIn page")
-[![Portfolio website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://feulur.com "Redirect to Portfolio website")
+[![Portfolio website](<a href='https://feulur.com' target="_blank"><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio_website-100000?style=for-the-badge&logo=Portfolio&logoColor=6bdfdb&labelColor=6bdfdb&color=2278fb'/></a>)
 
 ### Have a good day 🌞
 ![Penguins from Happy Feet dancing](https://media2.giphy.com/media/zHokhPIy6lwas/giphy.gif?cid=ecf05e47revu8qhnltufm383szqzqkj4jy5up7cn3znritrr&rid=giphy.gif&ct=g)
