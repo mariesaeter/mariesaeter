@@ -17,5 +17,5 @@ I'm currently working on improving my HTML, CSS, and JavaScript with focus on us
 [![Portfolio website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://feulur.com "Redirect to Portfolio website")
 
 ### Have a good day 🌞
-![Penguins from Happy Feet dancing](https://giphy.com/gifs/penguin-dancing-zHokhPIy6lwas.gif)
+![Penguins from Happy Feet dancing](https://media2.giphy.com/media/zHokhPIy6lwas/giphy.gif?cid=ecf05e47revu8qhnltufm383szqzqkj4jy5up7cn3znritrr&rid=giphy.gif&ct=g)
 ![headerreadme](https://user-images.githubusercontent.com/96269610/208267716-57725c84-d1c7-4ac3-bdd7-30cf41da0469.png)
