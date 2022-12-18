@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -
+--!>
 I'm a front-end developer Student with a large enthusiams for biology 🌱
 
 I'm always eager to learn something new and I often lose track of time when reading good books and playing video games.
